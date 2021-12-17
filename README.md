@@ -1,3 +1,5 @@
+![Microsoft Logo](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Images/microsoftlogo.jpg)
+
 # Microsoft Making Movies
 
 ### Author: Elizabeth Webster
