@@ -2,7 +2,7 @@
 
 # Microsoft Making Movies
 
-### Author: Elizabeth Webster
+### Author: [Elizabeth Webster](https://github.com/elizabeth524)
 
 ## Overview
 
@@ -27,11 +27,19 @@ In this project, we will be using descriptive analysis to find genres with the h
 
 ## Results
 
+The top five most profitable genres are Animation, Adventure, Musical, Fantasy, and Family.
+
 ![profit by genre](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Images/profitbygenre.png)
+
+The return on investment is highest for the following five genres: Musical, Family, Mystery, Horror, and Fantasy.
 
 ![roi by genre](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Images/roibygenre.png)
 
+The highest revenues are from filmds released in May, June, July, or November.
+
 ![revenue by month](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Images/revenuebymonth.png)
+
+The top 15 highest rated directors are all fairly close in their ratings.
 
 ![rating by director](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Images/ratingbydirector.png)
 
@@ -55,6 +63,6 @@ In this project, we have really just scratched the surface on what makes a great
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/student.ipynb).
+See the full analysis in the [Jupyter Notebook](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/student.ipynb) or review my presentation.
 
 For additional information, contact Elizabeth Webster at [eaw524@gmail.com](eaw524@gmail.com)
