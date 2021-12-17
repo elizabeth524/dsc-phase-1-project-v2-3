@@ -25,6 +25,14 @@ In this project, we will be using descriptive analysis to find genres with the h
 
 ## Results
 
+![profit by genre](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Images/profitbygenre.png)
+
+![roi by genre](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Images/roibygenre.png)
+
+![revenue by month](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Images/revenuebymonth.png)
+
+![rating by director](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Images/ratingbydirector.png)
+
 ## Suggestions
 
 This analysis lead me to three suggestions for Microsoft in regards to their first film:
