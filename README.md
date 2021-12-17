@@ -63,6 +63,6 @@ In this project, we have really just scratched the surface on what makes a great
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/student.ipynb) or review my presentation.
+See the full analysis in the [Jupyter Notebook](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/student.ipynb) or review my [presentation](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/Microsoft_Making_Movies_Presentation.pdf).
 
 For additional information, contact Elizabeth Webster at [eaw524@gmail.com](eaw524@gmail.com)
