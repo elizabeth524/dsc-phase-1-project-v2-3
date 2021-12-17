@@ -53,6 +53,6 @@ In this project, we have really just scratched the surface on what makes a great
 
 ## For More Information
 
-See the full analysis in the Jupyter Notebook.
+See the full analysis in the [Jupyter Notebook](https://github.com/elizabeth524/dsc-phase-1-project-v2-3/blob/master/student.ipynb).
 
 For additional information, contact Elizabeth Webster at [eaw524@gmail.com](eaw524@gmail.com)
